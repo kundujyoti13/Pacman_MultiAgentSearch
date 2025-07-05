@@ -17,5 +17,4 @@ This is the end of the project specification. We hope to   enjoy executing it an
 
 ## Acknowledgements
 
-We are very grateful to UC Berkeley CS188 for developing and sharing their [UC Pacman Projects](http://ai.berkeley.edu/project_overview.html) and 
-https://inst.eecs.berkeley.edu/~cs188/fa24/projects/ with us for learning purposes.
+We are very grateful to UC Berkeley CS188 for developing and sharing their [UC Pacman Projects](http://ai.berkeley.edu/project_overview.html) and RMIT  with us for learning purposes.
