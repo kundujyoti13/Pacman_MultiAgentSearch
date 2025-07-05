@@ -7,7 +7,8 @@ The **aim of this project** is to get you acquainted with search techniques that
  </p>
 
 
-##  task is to fully complete [Pacman Project 2 - Multiagent Search](http://ai.berkeley.edu/multiagent.html) from the set of [UC Pacman Projects](http://ai.berkeley.edu/project_overview.html). 
+##  Task 
+The task is to fully complete [Pacman Project 2 - Multiagent Search](http://ai.berkeley.edu/multiagent.html) from the set of [UC Pacman Projects](http://ai.berkeley.edu/project_overview.html). 
 
 
 ## Conclusions
